@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3UjSZTuTZI=",
+  "dgSpecHash": "o9/X2pWC0ug=",
   "success": true,
-  "projectFilePath": "C:\\api-w\\API.W.Movies\\API.W.Movies\\API.W.Movies.csproj",
+  "projectFilePath": "C:\\API.W.Movies\\API.W.Movies\\API.W.Movies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prac.ti\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\prac.ti\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

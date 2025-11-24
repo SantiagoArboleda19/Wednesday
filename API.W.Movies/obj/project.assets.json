@@ -4177,11 +4177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\api-w\\API.W.Movies\\API.W.Movies\\API.W.Movies.csproj",
+      "projectUniqueName": "C:\\API.W.Movies\\API.W.Movies\\API.W.Movies.csproj",
       "projectName": "API.W.Movies",
-      "projectPath": "C:\\api-w\\API.W.Movies\\API.W.Movies\\API.W.Movies.csproj",
+      "projectPath": "C:\\API.W.Movies\\API.W.Movies\\API.W.Movies.csproj",
       "packagesPath": "C:\\Users\\prac.ti\\.nuget\\packages\\",
-      "outputPath": "C:\\api-w\\API.W.Movies\\API.W.Movies\\obj\\",
+      "outputPath": "C:\\API.W.Movies\\API.W.Movies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prac.ti\\AppData\\Roaming\\NuGet\\NuGet.Config"

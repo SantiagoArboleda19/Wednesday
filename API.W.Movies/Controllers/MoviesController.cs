@@ -96,7 +96,7 @@ namespace API.W.Movies.Controllers
 
             try
             {
-                var updatedMovie = await _movieService.UpdateCategoryAsync(dto, id);
+                var updatedMovie = await _movieService.UpdateMovieAsync(dto, id);
 
                 return Ok(updatedMovie);
             }

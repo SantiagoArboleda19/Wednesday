@@ -76,7 +76,7 @@ namespace API.W.Movies.Services
         {
             var movies = await _movieRepository.GetMoviesAsync(); //Solo estoy haciendo el llamado del metodo desde la capa de repository
 
-            return _mapper.Map<ICollection<MoviesDto>>(movies); //Mapeo la lista de categorias a una lista de categorias Dto
+            return _mapper.Map<ICollection<MovieDto>>(movies); //Mapeo la lista de categorias a una lista de categorias Dto
         }
 
         public async Task<MovieDto> GetMovieAsync(int id)
